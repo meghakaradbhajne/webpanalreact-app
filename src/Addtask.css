@@ -1,0 +1,18 @@
+.addbutton{
+    display: inline-block;
+    vertical-align: bottom;
+
+}
+.main_div {
+    width: 50%;
+    height: 50%;
+    position: relative;
+     margin:15%   auto; 
+    
+     width: 350px;
+       top: 10px; 
+       text-align: center;
+    position: relative;
+     
+
+}
